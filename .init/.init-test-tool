@@ -1,0 +1,4 @@
+{
+    "command": "npm run lint",
+    "working_directory": "/home/kavia/workspace/code-generation/personal-notes-app-19195-19460/notes_app_frontend"
+}
